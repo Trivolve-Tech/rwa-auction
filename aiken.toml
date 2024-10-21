@@ -1,0 +1,14 @@
+name = "sam/aiken-auction"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'amakarov/aiken-auction'"
+
+[repository]
+user = "SamJeffrey8"
+project = "aiken-auction"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.9.0"
+source = "github"
